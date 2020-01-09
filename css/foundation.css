@@ -5454,7 +5454,8 @@ a.thumbnail {
   -webkit-flex: 0 0 auto;
       -ms-flex: 0 0 auto;
           flex: 0 0 auto;
-  margin: 0.5rem 1rem 0.5rem 0; }
+  margin: 0.5rem 1rem 0.5rem 0;
+  width: 20%;}
 
 .top-bar-left,
 .top-bar-right {
